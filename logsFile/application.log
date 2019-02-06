@@ -1,0 +1,16 @@
+2019-02-04 02:55:51,392  INFO [main] HomePageTest:50 -   log message  
+2019-02-04 02:55:53,377 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-02-04 02:55:53,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-02-04 02:55:53,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-02-04 02:55:53,377 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-02-04 02:55:53,393 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Amrittesh/Documents/Eclipse/java_framework/lib3/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-02-04 02:55:53,762 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-02-04 02:55:53,762 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-02-04 02:55:53,762 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-02-04 02:55:53,762 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-02-04 02:55:53,762 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Amrittesh/Documents/Eclipse/java_framework/lib3/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-02-04 02:55:53,762 DEBUG [ERROR] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Amrittesh/Documents/Eclipse/java_framework/lib3/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-02-04 02:55:53,762 DEBUG [ERROR] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Amrittesh/Documents/Eclipse/java_framework/lib3/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-02-04 02:55:53,762 DEBUG [ERROR] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Amrittesh/Documents/Eclipse/java_framework/lib3/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-02-04 02:55:53,762 DEBUG [ERROR] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Amrittesh/Documents/Eclipse/java_framework/lib3/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-02-04 02:55:53,762 DEBUG [ERROR] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Amrittesh/Documents/Eclipse/java_framework/lib3/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
